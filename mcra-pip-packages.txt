@@ -1,2 +1,0 @@
-numpy-1.26.4-cp312-cp312-win_amd64.whl
-libroadrunner-2.7.0-cp312-cp312-win_amd64.whl
